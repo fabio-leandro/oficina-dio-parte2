@@ -30,7 +30,7 @@ Essa ordem de serviço pode ter a atuação de um ou mais mecânicos;
 Essa ordem de serviço pode conter um ou mais serviços;
 Essa ordem pode ter uma ou mais peças para realização do serviço;
 
-<img src="" alt="Modelo Conceitual Relacional Oficina"/>
+<img src="https://github.com/fabio-leandro/oficina-dio-parte2/blob/main/Modelo%20Conceitual%20Relacional%20Oficina.png" alt="Modelo Conceitual Relacional Oficina"/>
 
 
 
