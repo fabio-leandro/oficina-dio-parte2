@@ -24,11 +24,13 @@ abaixo:</p>
 <li>As cláusulas podem estar presentes em mais de uma query</li>
 
 <h3>Solução</h3>
-Um cliente várias vezes a oficina e ele pode ter um ou mais veículos;
-É gerada uma ordem de serviço para cada veículo;
-Essa ordem de serviço pode ter a atuação de um ou mais mecânicos;
-Essa ordem de serviço pode conter um ou mais serviços;
-Essa ordem pode ter uma ou mais peças para realização do serviço;
+<ul>
+<li>Um cliente várias vezes a oficina e ele pode ter um ou mais veículos;</li>
+<li>É gerada uma ordem de serviço para cada veículo;</li>
+<li>Essa ordem de serviço pode ter a atuação de um ou mais mecânicos;</li>
+<li>Essa ordem de serviço pode conter um ou mais serviços;</li>
+<li>Essa ordem pode ter uma ou mais peças para realização do serviço;</li>
+</ul>
 
 <img src="https://github.com/fabio-leandro/oficina-dio-parte2/blob/main/Modelo%20Conceitual%20Relacional%20Oficina.png" alt="Modelo Conceitual Relacional Oficina"/>
 
