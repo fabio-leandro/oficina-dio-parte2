@@ -29,7 +29,7 @@ abaixo:</p>
 <li>É gerada uma ordem de serviço para cada veículo;</li>
 <li>Essa ordem de serviço pode ter a atuação de um ou mais mecânicos;</li>
 <li>Essa ordem de serviço pode conter um ou mais serviços;</li>
-<li>Essa ordem pode ter uma ou mais peças para realização do serviço;</li>
+<li>Essa ordem pode ter uma ou mais peças para realização do serviço.</li>
 </ul>
 
 <img src="https://github.com/fabio-leandro/oficina-dio-parte2/blob/main/Modelo%20Conceitual%20Relacional%20Oficina.png" alt="Modelo Conceitual Relacional Oficina"/>
